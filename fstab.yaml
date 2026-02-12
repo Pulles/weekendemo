@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p184452-e1922911.adobeaemcloud.com/bin/franklin.delivery/Pulles/weekendemo/main"
+    url: "https://author-p184452-e1922861.adobeaemcloud.com/bin/franklin.delivery/Pulles/weekendemo/main"
     type: "markup"
     suffix: ".html"
